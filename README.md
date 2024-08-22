@@ -6,7 +6,7 @@ Recently Large Language Models (LLMs) such as GPT-3, ChatGPT, and FLAN have led 
 
 # Data Release
 
-Please see the `./data` folder to access the LogicBench dataset.
+Please see the `./data` folder to access the LogicAttack datasets re-purposed from SNLI and MNLI.
 
 **License**: MIT License
 
